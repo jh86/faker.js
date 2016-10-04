@@ -1,14 +1,14 @@
 {
-  "name": "faker",
+  "name": "@jh86/faker",
   "description": "Generate massive amounts of fake contextual data",
-  "version": "3.1.0",
+  "version": "3.1.01",
   "contributors": [
     "Marak Squires <marak.squires@gmail.com>",
     "Matthew Bergman <matt@novafabrica.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/Faker.js.git"
+    "url": "http://github.com/jh86/faker.js.git"
   },
   "scripts": {
     "lint": "node_modules/.bin/jshint ./lib --config ./.jshintrc",
